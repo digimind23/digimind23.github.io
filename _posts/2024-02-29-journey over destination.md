@@ -3,7 +3,8 @@ title: Journey Over Destination
 description: Melalui sarjana
 author: <Pandu Hanif>
 date: 2024-02-29 15:20:00 +0700
-image: /assets/img/Yudisium/Preview.jpg
+image:
+    path: /assets/img/Yudisium/Preview.jpg
 categories: [Blogging, Koas]
 tags: [lulus]
 ---
